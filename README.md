@@ -3,7 +3,7 @@
 </div>
 
 ## About Me
-I'm an Embedded Firmware Engineer passionate about building reliable firmware for MCU- and SoC-based embedded systems.
+I'm an Embedded Software Engineer passionate about building reliable firmware for MCU- and SoC-based embedded systems.
 
 Currently:
 - Developing firmware for CPE modules at FPT Telecom.
