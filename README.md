@@ -9,7 +9,7 @@ Currently:
 - Developing firmware for CPE modules at FPT Telecom.
 - Researching firmware for biomedical embedded systems integrating TinyML and lightweight cryptography at DESLab.
 
-My work focus on: `C/C++ firmware development` • `Event-driven design pattern` • `TinyML` • `Secure IoT`
+My work focuses on: `C/C++ firmware development` • `Kernel module development` • `TinyML` • `Secure IoT`
 
 ## Tech
-`C` • `C++` • `STM32` • `ESP32` • `Raspberry Pi` • `Linux` `FreeRTOS` • `UART` • `SPI` • `I²C` • `MQTT`
+`C` • `C++` • `STM32` • `ESP32` • `Raspberry Pi` • `Linux` `FreeRTOS` • `UART` • `SPI` • `I²C` • `MQTT` • `GNU Make`
