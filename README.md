@@ -7,7 +7,7 @@ I'm an Embedded Software Engineer passionate about building reliable firmware fo
 
 Currently:
 - Developing firmware for CPE modules at FPT Telecom.
-- Researching firmware for biomedical embedded systems integrating TinyML and lightweight cryptography at DESLab.
+- Researching firmware for biomedical embedded systems integrating TinyML and lightweight cryptography at DESLab (HCMUS).
 
 My work focuses on: `C/C++ firmware development` • `Kernel module development` • `TinyML` • `Secure IoT`
 
