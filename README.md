@@ -12,4 +12,7 @@ Currently:
 My work focuses on: `C/C++ firmware development` • `Kernel module development` • `TinyML` • `Secure IoT`
 
 ## Tech
-`C` • `C++` • `STM32` • `ESP32` • `Raspberry Pi` • `Linux` `FreeRTOS` • `UART` • `SPI` • `I²C` • `MQTT` • `GNU Make`
+- **Languages:** `C` • `C++`
+- **Platforms:** `STM32` • `ESP32` • `Raspberry Pi`
+- **Embedded Systems:** `Embedded Linux` • `FreeRTOS`
+- **Development:** `Git` • `GNU Make` • `CMake`
