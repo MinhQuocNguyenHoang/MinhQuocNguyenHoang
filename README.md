@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="about.png" width=75%">
+<img src="about.png" width="75%">
 
 # Nguyen Hoang Minh Quoc
 
@@ -23,4 +23,4 @@ Currently:
 
 ## Tech
 
-`C` `C++` • `STM32` `ESP32` `Raspberry Pi` • `Linux` `FreeRTOS` • `UART` `SPI` `I²C` `MQTT`
+`C` • `C++` • `STM32` • `ESP32` • `Raspberry Pi` • `Linux` `FreeRTOS` • `UART` • `SPI` • `I²C` • `MQTT`
