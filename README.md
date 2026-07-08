@@ -1,60 +1,26 @@
 <div align="center">
 
-<img src="about.png" width="85%">
+<img src="about.png" width=75%">
 
 # Nguyen Hoang Minh Quoc
 
-### Electronics & Telecommunications Student • Embedded Systems
+Third-year student at University of Science (VNU_HCMUS)
 
 *"Keep Learning. Keep Building. Make Impact."*
 
 </div>
 
----
+## About Me
+I'm an Embedded Firmware Engineer passionate about building reliable firmware for MCU- and SoC-based embedded systems.
 
-## About me
+Currently:
+- Developing firmware for CPE modules at FPT Telecom.
+- Researching firmware for biomedical embedded systems integrating TinyML and lightweight cryptography at DESLab.
 
-I'm a third-year Electronics and Telecommunications student at the University of Science, VNU-HCM.
+## Focus
 
-Currently, I'm working as an **Embedded Systems Intern** and **Research Assistant @ DESLab**, focusing on developing firmware, TinyML applications, and secure IoT solutions for resource-constrained devices.
+`Embedded Firmware` • `Embedded Linux` • `TinyML` • `Secure IoT`
 
-## Current Focus
+## Tech
 
-- Embedded Firmware Development
-- Embedded Linux
-- TinyML on Edge Devices
-- Lightweight Cryptography
-- Secure IoT Systems
-
----
-
-## Technologies
-
-**Languages**
-
-`C` • `C++`
-
-**Platforms**
-
-`STM32` • `ESP32`
-
-**Operating Systems**
-
-`Linux`
-
-**Communication**
-
-`UART` • `SPI` • `I²C` • `MQTT`
-
-**Tools**
-
-`Git` • `GNU Make` • `CMake`
-
----
-
-## Currently
-
-- Research Assistant @ DESLab
-- Building Embedded Firmware Projects
-- Learning Embedded Linux & TinyML
-- Looking for opportunities in Embedded Firmware Engineering
+`C` `C++` • `STM32` `ESP32` `Raspberry Pi` • `Linux` `FreeRTOS` • `UART` `SPI` `I²C` `MQTT`
