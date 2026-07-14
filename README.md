@@ -1,5 +1,5 @@
 <div align="center">
-<img src="about.png" width="65%">
+<img src="about.png" width="80%">
 </div>
 
 ## About Me
