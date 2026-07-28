@@ -1,4 +1,10 @@
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MinhQuocNguyenHoang&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+<div align="center">
 <img src="about.png" width="80%">
 </div>
 
