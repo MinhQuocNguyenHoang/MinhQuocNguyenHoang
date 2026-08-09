@@ -9,13 +9,13 @@
 </div>
 
 ## About Me
-I'm an Embedded Software Engineer passionate about building reliable firmware for MCU- and SoC-based embedded systems.
+I'm an **Embedded Software Engineering Student** passionate about building reliable firmware for MCU- and SoC-based systems.
 
-Currently:
-- Developing firmware for CPE modules at FPT Telecom.
-- Researching firmware for biomedical embedded systems integrating TinyML and lightweight cryptography at DESLab (HCMUS).
+**Currently:**
+- **Embedded Software Intern at FPT Telecom:** Customizing HAL layers, API wrappers, and firmware modules for CPE & IP Camera products.
+- **Undergraduate Researcher at DESLab (HCMUS):** Researching biomedical embedded firmware integrating TinyML & Lightweight Cryptography.
 
-My work focuses on: `C/C++ firmware development` • `Kernel module development` • `TinyML` • `Secure IoT`
+**Focus:** `C/C++ Firmware` • `HAL & Kernel Modules` • `TinyML` • `Secure IoT`
 
 ## Tech
 - **Languages:** `C` • `C++`
