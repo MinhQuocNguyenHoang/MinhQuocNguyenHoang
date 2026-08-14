@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="about1.png" width="80%">
+<img src="about1.webp" width="80%">
 </div>
 
 ## About Me
